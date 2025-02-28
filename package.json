@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "dev": "node --watch ejercicio1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
