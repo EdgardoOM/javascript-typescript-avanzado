@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "ejercicio1.js",
   "scripts": {
-    "dev": "node --watch ejercicio1.js"
+    "start": "node --watch ejercicio2-3.js"
   },
   "keywords": [],
   "author": "",
